@@ -31,18 +31,3 @@ matplotlib
 nltk       
 flask 
 
-```python
-
-```
-
-
-
-```python
-
-```
-
-
-```python
-
-
-```
